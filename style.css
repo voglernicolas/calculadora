@@ -1,0 +1,35 @@
+body{
+    background-color: #E0E0E0;
+    font-size: 100px;
+}
+#contenedor{
+
+  min-width: 40px;
+  margin-top: 8%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#operador, #numero{
+  border-radius: 0;
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	width: 80px;
+	height: 80px;
+}
+#numero{
+	background: #00BFFF;
+}
+#operador{
+  background: #1E90FF;
+}
+.form-control{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #808080;
+	width: 325.8px;
+	height: 80px;
+}
